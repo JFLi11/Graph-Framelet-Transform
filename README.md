@@ -24,6 +24,7 @@ Requires Python 3.8+ and the following packages:
 
 ```bash
 pip install torch numpy scipy networkx scikit-network
+```
 
 ---
 
