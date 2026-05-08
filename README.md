@@ -24,3 +24,23 @@ Requires Python 3.8+ and the following packages:
 
 ```bash
 pip install torch numpy scipy networkx scikit-network
+
+---
+
+## References
+
+If you find this code useful in your research, please consider citing the following paper:
+
+```bibtex
+@article{li2024permutation,
+  title={Permutation equivariant graph framelets for heterophilous graph learning},
+  author={Li, Jianfei and Zheng, Ruigang and Feng, Han and Li, Ming and Zhuang, Xiaosheng},
+  journal={IEEE Transactions on neural networks and learning systems},
+  volume={35},
+  number={9},
+  pages={11634--11648},
+  year={2024},
+  publisher={IEEE}
+}
+
+---
